@@ -41,3 +41,7 @@
 - HTML & CSS
 - Java basics
 - Git & GitHub
+  
+---
+
+✨ Always learning and improving step by step
