@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jasmina 👋
 
-<!--
-**Jasmina-Ka/Jasmina-Ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year IT student  
+💻 Learning programming and GitHub  
+☕ Coffee & book lover  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML (beginner)
+- Java (beginner)
+- Databases
+
+---
+
+## 🔥 What I'm Doing
+- Learning web development
+- Practicing Java
+- Exploring GitHub
+
+---
+
+## 🚀 My Projects
+- Personal website (coming soon)
+- Java practice projects
+
+---
+
+## 🎯 Goals
+- Build real-world projects
+- Improve coding skills
+- Become job-ready
