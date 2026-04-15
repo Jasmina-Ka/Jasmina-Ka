@@ -4,9 +4,12 @@
 
 🎓 First-year IT student @ OsloMet
 
+---
+
 💻 Learning programming & GitHub  
 🚀 Future developer  
 ☕ Coffee & book lover  
+
 ---
 
 ## 🛠️ Skills
