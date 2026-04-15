@@ -1,9 +1,11 @@
 # Hi, I'm Jasmina 👋
 
-🎓 First-year IT student  
-💻 Learning programming and GitHub  
-☕ Coffee & book lover  
+✨ Passionate about learning and building my first real projects
 
+🎓 First-year IT student Oslomet – storbyuniversitetet
+💻 Learning programming & GitHub  
+🚀 Future developer  
+☕ Coffee & book lover  
 ---
 
 ## 🛠️ Skills
@@ -30,3 +32,8 @@
 - Build real-world projects
 - Improve coding skills
 - Become job-ready
+
+## 🌱 Currently Learning
+- HTML & CSS
+- Java basics
+- Git & GitHub
