@@ -3,6 +3,7 @@
 ✨ Passionate about learning and building my first real projects
 
 🎓 First-year IT student Oslomet – storbyuniversitetet
+
 💻 Learning programming & GitHub  
 🚀 Future developer  
 ☕ Coffee & book lover  
